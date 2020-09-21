@@ -23,6 +23,7 @@
         public MainWindow()
         {
             InitializeComponent();
+            InitializeComponent();
             //tesgin
         }
     }
